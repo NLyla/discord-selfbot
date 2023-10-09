@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "":"",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nlyla/discord-selfbot.git"
@@ -14,7 +13,6 @@
   "keywords": [
     "discord-selfbot",
     "selfbot",
-    "owo-farm",
     "discord.js",
     "nlyla"
   ],
