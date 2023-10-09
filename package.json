@@ -1,0 +1,33 @@
+{
+  "name": "somebot",
+  "version": "1.0.0",
+  "description": "let me tell you who I am",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "":"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nlyla/discord-selfbot.git"
+  },
+  "keywords": [
+    "discord-selfbot",
+    "selfbot",
+    "owo-farm",
+    "discord.js",
+    "nlyla"
+  ],
+  "author": "Nlyla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nlyla/discord-selfbot/issues"
+  },
+  "homepage": "https://github.com/Nlyla/#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.11",
+    "fs": "^0.0.2",
+    "my-json-database":"^0.0.7"
+  }
+
+}
